@@ -134,13 +134,13 @@ Milestone 3
       
 9. References
     
- 1. Stadt Köln – Fahrrad Verkehrsdaten Köln 2022
- 2. Open.NRW – dataset metadata
- 3. Datenlizenz Deutschland – Zero – Version 2.0
- 4. DWD CDC – historical monthly climate observations
- 5. DWD CDC terms of use
- 6. Creative Commons Attribution 4.0 International
- 7. Open Definition
+- Stadt Köln – Fahrrad Verkehrsdaten Köln 2022
+- Open.NRW – dataset metadata
+- Datenlizenz Deutschland – Zero – Version 2.0
+- DWD CDC – historical monthly climate observations
+- DWD CDC terms of use
+- Creative Commons Attribution 4.0 International
+- Open Definition
 
 
 10. AI Assistance
