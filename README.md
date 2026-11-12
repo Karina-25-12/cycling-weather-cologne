@@ -1,7 +1,11 @@
 Cycling and Weather in Cologne
+
 Subtitle: An Exploratory Analysis of Bicycle Traffic and Weather Conditions in 2022
+
 Course: Data Integration – TH Köln, Winter Semester 2026/2027
+
 Project format: Individual project (subject to lecturer approval)
+
 Project owner: Karina Jacob
 
 Milestone 1: Roadmap — 13 November 2026
